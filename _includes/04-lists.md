@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## Fav foods
+1. Pizza
+2. Burritos 
+3. Burgers
